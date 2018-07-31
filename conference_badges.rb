@@ -1,6 +1,6 @@
 # Write your code here.
 def badge_maker(name)
-  puts "Hello, my name is ${name}"
+  puts "Hello, my name is #{name}."
 end
 
 def batch_badge_creator(array_names)
@@ -26,4 +26,3 @@ def batch_badge_creator(array_names)
     puts value
   end
 end
-  
